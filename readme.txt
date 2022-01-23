@@ -1,2 +1,2 @@
-git is a good git.
-git是一个好git。
+git is a good git(Really).
+git是一个好git（真的）。
